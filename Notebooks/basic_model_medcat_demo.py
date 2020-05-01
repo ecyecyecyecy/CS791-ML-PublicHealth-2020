@@ -54,6 +54,3 @@ for ent in doc.ents:
 # We can also show the entities in a nicer way using displacy form spaCy
 #from spacy import displacy
 #displacy.render(doc, style='ent', jupyter=True)
-
-
-# print(cdb.cui2pretty_name('C0020538'))
