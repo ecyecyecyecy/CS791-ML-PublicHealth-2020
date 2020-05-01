@@ -6,6 +6,7 @@ BU School of Public Health has access to clinician notes collected during routin
 We need to predict a diagnosis of substance abuse, alcohol use and tobacco smoking from the data in the notes by using techniques such as NLP and machine learning methods. 
 
 <br/>
+
 # PROBLEM / OBJECTIVE:  
 Using the patients records, predict diagnosis of:  
 . substance abuse   
