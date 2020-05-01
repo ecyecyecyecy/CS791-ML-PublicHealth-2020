@@ -4,11 +4,20 @@ This repository contains all code and information for the ML for Public Health c
 
 BU School of Public Health has access to clinician notes collected during routine medical visits at the Boston Medical Center. These notes are written free-text reports of visits capturing the clinician’s findings, observations, and diagnoses.
 We need to predict a diagnosis of substance abuse, alcohol use and tobacco smoking from the data in the notes by using techniques such as NLP and machine learning methods. 
- 
+
+# PROBLEM/OBJECTIVE:  
+Using the patients records, predict diagnosis of:  
+. substance abuse   
+. alcohol use   
+. tobacco smoking  
+
+Different patients with different background can have different response to diseases. So, information extraction for above 3 phenotypes would help in cohort studies in HIV and Hepatitis C.  
  
 # Methods:
 ## Method 1 - MedCAT (Medical Annotation Tool)  
 ## Method 2 - 3 machine learning models (kNN, Naive Bayes, Linear SVC) 
+
+
 
 # Results (Logician Notes):
 
@@ -71,6 +80,9 @@ Accuracy: 78.57%,
 F1 score: 88.0%,
 Precision: 100.0%,
 Recall: 78.57% 
+
+
+
 
 # Results (Epic Notes):
 
