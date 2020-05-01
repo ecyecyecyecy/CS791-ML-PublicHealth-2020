@@ -12,7 +12,7 @@ We need to predict a diagnosis of substance abuse, alcohol use and tobacco smoki
 
 # Results (Logician Notes):
 
-## ALCOHOL ABUSE
+## 1. ALCOHOL ABUSE
 
 ### Linear SVC: ###
 Accuracy: 88.89%,
@@ -32,7 +32,7 @@ F1 score: 90.0%,
 Precision: 81.82%,
 Recall: 100.0% 
 
-## DRUG ABUSE
+## 2. DRUG ABUSE
 
 ### Linear SVC: ###
 Accuracy: 80.85%,
@@ -52,7 +52,7 @@ F1 score: 84.75%,
 Precision: 100.0%,
 Recall: 73.53% 
 
-## TOBACCO SMOKING
+## 3. TOBACCO SMOKING
 
 ### Linear SVC: ###
 Accuracy: 83.93%,
@@ -74,7 +74,7 @@ Recall: 78.57%
 
 # Results (Epic Notes):
 
-## ALCOHOL ABUSE
+## 1. ALCOHOL ABUSE
 
 ### Linear SVC: ###
 Accuracy: 80.23%,
@@ -94,7 +94,7 @@ F1 score: 36.36%,
 Precision: 24.0%,
 Recall: 75.0% 
 
-## DRUG ABUSE
+## 2. DRUG ABUSE
 
 ### Linear SVC: ###
 Accuracy: 84.27 %
@@ -114,7 +114,7 @@ F1 score: 89.93%,
 Precision: 100.0%,
 Recall: 81.71% 
 
-## TOBACCO SMOKING
+## 3. TOBACCO SMOKING
 
 ### Linear SVC: ###
 Accuracy: 93.18%,
