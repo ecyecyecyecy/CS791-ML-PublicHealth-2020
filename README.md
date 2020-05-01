@@ -6,6 +6,7 @@ BU School of Public Health has access to clinician notes collected during routin
 We need to predict a diagnosis of substance abuse, alcohol use and tobacco smoking from the data in the notes by using techniques such as NLP and machine learning methods. 
 
 <br/>
+<br/>
 
 # PROBLEM / OBJECTIVE:  
 Using the patients records, predict diagnosis of:  
@@ -15,11 +16,15 @@ Using the patients records, predict diagnosis of:
 
 Different patients with different background can have different response to diseases. So, information extraction for above 3 phenotypes would help in cohort studies in HIV and Hepatitis C.  
  
+<br/>
+<br/>
+
 # Methods:
 ## Method 1 - MedCAT (Medical Annotation Tool)  
 ## Method 2 - 3 machine learning models (kNN, Naive Bayes, Linear SVC) 
 
-
+<br/>
+<br/>
 
 # Results (Logician Notes):
 
@@ -84,7 +89,8 @@ Precision: 100.0%,
 Recall: 78.57% 
 
 
-
+<br/>
+<br/>
 
 # Results (Epic Notes):
 
